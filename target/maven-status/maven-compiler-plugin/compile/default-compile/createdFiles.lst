@@ -1,0 +1,4 @@
+com\automation\baseclass\Baseclass.class
+com\automation\pom\Signin.class
+com\automation\pom\Addtocart.class
+com\automation\pom\Homepage.class
